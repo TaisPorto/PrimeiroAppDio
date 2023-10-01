@@ -1,6 +1,6 @@
 # PrimeiroAppDio
 
-💻  Primeiroa aplicativo realizado atraves do Bootcamp Santander onde no decorrer do curso será realizado aperfeiçoamentos.
+💻  Primeiroa aplicativo realizado atraves do Bootcamp Santander onde no decorrer do curso será realizado aperfeiçoamentos de codigo e estilo.
 
 
 
