@@ -2,6 +2,8 @@
 
 💻  Primeiroa aplicativo realizado atraves do Bootcamp Santander onde no decorrer do curso será realizado aperfeiçoamentos de codigo e estilo.
 
+<img src="https://github.com/TaisPorto/PrimeiroAppDio/blob/main/Screenshot_20231001_221544.png" alt="Imagem de Exemplo" width="200">
+
 
 
 ### TODO
